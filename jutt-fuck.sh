@@ -22,4 +22,4 @@ clear
 pip2 install termocolor
 echo "selesai"
 clear
-python2 /Jutt-fuck.cython-easy-38.so
+python2 Jutt-fuck.cython-easy-38.so
